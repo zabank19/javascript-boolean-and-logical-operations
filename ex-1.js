@@ -1,9 +1,13 @@
-let isAgeOver18 = true;
-let isThai = false;
-let hasCriminalBlacklist = true;
+// Exercise #1: Event Conditions
+// Example:
+// let isAgeOver18 = false;
 
-let isAllow = null;
 // Start coding here
 
 
-console.log (isAllow); // Result should be false
+
+
+let isAllow = null;
+
+
+console.log (isAllow);
