@@ -1,10 +1,13 @@
-let lastMonthPaidMoreThan4000 = true;
-let isPlatinum = true;
-let isSunday = true;
-let hasBoughtProductFromITCategory = true;
-let hasAttendedDiscountEvent = false;
+// Exercise #2: Promotion Conditions
 
-let hasPromotion = null;
 //Start coding here
+let lastMonthPaidMoreThan4000;
+let isSunday;
+let hasBoughtProductFromITCategory;
+let hasAttendedDiscountEvent;
+let isPlatinum;
 
-console.log(hasPromotion); // Result should be false
+let hasPromotion;
+
+
+console.log (hasPromotion);
