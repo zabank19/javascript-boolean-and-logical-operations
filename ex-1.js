@@ -1,12 +1,10 @@
 // Exercise #1: Event Conditions
 
 // Start coding here
-let isOver18 = null;
-let hasCriminalBlacklist = null;
-let isThai = null;
+let isOver18;
+let hasCriminalBlacklist;
+let isThai;
 
-let isAllow = null;
-
+let isAllow;
 
 console.log (isAllow);
-
