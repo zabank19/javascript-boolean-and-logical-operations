@@ -1,6 +1,6 @@
 // Exercise #2: Promotion Conditions
 
-//Start coding here
+// Start coding here
 let lastMonthPaidMoreThan4000;
 let isSunday;
 let hasBoughtProductFromITCategory;
