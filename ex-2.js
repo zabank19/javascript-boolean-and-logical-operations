@@ -10,4 +10,4 @@ let isPlatinum;
 let hasPromotion;
 
 
-console.log (hasPromotion);
+console.log(hasPromotion);
