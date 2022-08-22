@@ -7,4 +7,4 @@ let isThai;
 
 let isAllow;
 
-console.log (isAllow);
+console.log(isAllow);
