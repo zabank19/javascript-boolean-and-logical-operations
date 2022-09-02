@@ -5,7 +5,7 @@ let memberLevel = "Gold";
 let lastMonthPaid = 4001;
 
 let lastMonthPaidMoreThan4000;
-let isSunday;
+let isWeekday;
 let hasBoughtProductFromITCategory;
 let hasAttendedDiscountEvent;
 let isPlatinum;
