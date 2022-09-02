@@ -2,7 +2,7 @@
 
 // Start coding here
 let isOver18;
-let hasCriminalBlacklist;
+let hasNoCriminalBlacklist;
 let isThai;
 
 let isAllow;
