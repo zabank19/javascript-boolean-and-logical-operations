@@ -9,5 +9,4 @@ let isPlatinum;
 
 let hasPromotion;
 
-
 console.log(hasPromotion);
