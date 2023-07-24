@@ -3,8 +3,8 @@
 // Start coding here
 let lastMonthPaidMoreThan4000;
 let isWeekday;
-let hasNotBoughtProductFromITCategory;
-let hasNotAttendedDiscountEvent;
+let hasBoughtProductFromITCategory;
+let hasAttendedDiscountEvent;
 let isPlatinum;
 
 let hasPromotion;
