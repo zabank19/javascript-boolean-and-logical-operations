@@ -1,4 +1,4 @@
-//Exercise #3: Debugging (Type Conversion)
+//Exercise #3: Debugging (Boolean & Logical Operations)
 
 //Start coding here
 const numberA = 100;
