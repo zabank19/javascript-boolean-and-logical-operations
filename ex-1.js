@@ -1,7 +1,7 @@
 // Exercise #1: Event Conditions
 
 // Start coding here
-let isOver18 = 19;
+let isOver18;
 let hasCriminalBlacklist;
 let isThai;
 
